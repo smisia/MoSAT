@@ -1,2 +1,3 @@
-# MoSAT
-It is a hobby CubeSAT project. This is currently not made for release only for learning testing purposes
+# Requirements:
+<br/> - Must be lighter then 1kg
+<br/> - It must use the 1U configuration
